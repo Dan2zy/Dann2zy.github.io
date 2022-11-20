@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+    font-size: 23.5px;
+}
+.Contact {
+    padding: 0px;
+    margin: 0px;
+    border: solid;
+    height: 160px;
+    width: 809px;
+
+}

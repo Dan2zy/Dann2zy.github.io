@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+border-box {
+    border: 4px dotted orange;
+    padding: 20px;
+    margin: 0 auto;
+     width: 350px;
+     height: 120px;
+    
+      
+}
+a{
+    text-decoration: none;
+}
+
+    

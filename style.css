@@ -1,0 +1,37 @@
+body {
+    padding: 30px;
+    background:  linear-gradient(rgb(171, 179, 171), rgb(226, 215, 215)) no-repeat ;
+    font-size: 19px;
+          
+}
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px 18px;
+    background-color:  linear-gradient(rgb(145, 7, 145), rgb(168, 79, 5)) no-repeat ; 
+    border: 2px solid rgb(14, 199, 153);
+    border-radius: 20px;
+    font-size: 19px;
+}
+nav a:hover {
+   color: rgb(89, 99, 89);
+   background-color: rgb(128, 146, 145);
+   border-color: rgb(222, 233, 229);
+}
+nav li {
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+}
+iframe {
+    border: solid;
+}
+img {
+    border: solid;
+    color: aqua;
+}
